@@ -18,7 +18,6 @@ checksum = "9985c9503b412198aa4197559e9a318524ebc4519c229bfa05a535828c950b9d"
 name = "globlin"
 version = "0.2.0"
 dependencies = [
- "glob-match",
  "pyo3",
 ]
 
